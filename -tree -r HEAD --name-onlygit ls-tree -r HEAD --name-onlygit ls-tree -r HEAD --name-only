@@ -1,0 +1,17 @@
+[33mcommit bcf0f5235d1cbeb1a00349540602ce27c9c340d9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: melchizedek-attubrah <melchizedek943@gmail.com>
+Date:   Thu Nov 26 02:33:30 2026 +0000
+
+    Remove .env from repository
+
+ .env | 7 [31m-------[m
+ 1 file changed, 7 deletions(-)
+
+[33mcommit d61f062dc0d58d6565efa58852f679227c6d4d84[m
+Author: melchizedek-attubrah <melchizedek943@gmail.com>
+Date:   Thu Nov 26 02:28:52 2026 +0000
+
+     Testing HomePage
+
+ .env | 7 [32m+++++++[m
+ 1 file changed, 7 insertions(+)
